@@ -4,10 +4,11 @@ A native android application that allows users to keep track of their daily medi
 <br/>
 
 <p align="center">
-<img width=“67%” src=“https://github.com/joshuakellyeng/pill-mate/blob/main/pill-mate.png” >
+<img width="66%" src="https://raw.githubusercontent.com/joshuakellyeng/pill-mate/main/pill-mate.png" >
 
-<img width=“33%” src=“https://github.com/joshuakellyeng/pill-mate/blob/main/Pill-Mate.gif”>
-</p><br/>
+<img width="31.6%" src="https://raw.githubusercontent.com/joshuakellyeng/pill-mate/main/Pill-Mate.gif">
+</p>
+<br/>
 
 ## Technologies Used
 
