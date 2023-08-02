@@ -3,7 +3,7 @@
 A native android application that allows users to keep track of their daily medications. Built with Kotlin, Jetpack Compose, RetroFit, Room and Moshi. [Live Link]()<br/>
 <br/>
 
-![pillmate]()<br/>
+![pillmate](https://github.com/joshuakellyeng/pill-mate/blob/main/pill-mate3.png?raw=true)<br/>
 
 ## Technologies Used
 
