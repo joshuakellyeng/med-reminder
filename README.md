@@ -1,6 +1,6 @@
 # Pill Mate
 
-A native android application that allows users to keep track of their daily medications. Built with Kotlin, Jetpack Compose, RetroFit, Room and Moshi. [View Code in Group Repo]()<br/>
+An Android app that allows users to keep track of their daily medications and prescription schedule. Built with Kotlin, Jetpack Compose, RetroFit, Moshi, and Room. [View Code in Group Repo](https://github.com/joshuakellyeng/sith-happens-health-app)<br/>
 <br/>
 
 <p align="center">
@@ -14,8 +14,8 @@ A native android application that allows users to keep track of their daily medi
 
 - Kotlin
 - Jetpack Compose
-- Moshi
 - RetroFit
+- Moshi
 - Room
 - Coroutines
 
