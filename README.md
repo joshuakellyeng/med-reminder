@@ -4,9 +4,12 @@ An Android app that allows users to keep track of their daily medications and pr
 <br/>
 
 <p align="center">
-<img width="66%" src="https://raw.githubusercontent.com/joshuakellyeng/pill-mate/main/pill-mate.png" >
-
-<img width="31.6%" src="https://raw.githubusercontent.com/joshuakellyeng/pill-mate/main/Pill-Mate.gif">
+<img width="94.8%" src="https://raw.githubusercontent.com/joshuakellyeng/pill-mate/main/pill-mate.png" >
+</p>
+<p align="center">
+<img width="31.6%" src="https://raw.githubusercontent.com/joshuakellyeng/pill-mate/main/pill-mate-demo1.gif">
+<img width="31.6%" src="https://raw.githubusercontent.com/joshuakellyeng/pill-mate/main/pill-mate-demo2.gif">
+<img width="31.6%" src="https://raw.githubusercontent.com/joshuakellyeng/pill-mate/main/pill-mate-demo3.gif">
 </p>
 <br/>
 
